@@ -1,5 +1,8 @@
 # Tokenization in Natural Language Processing
 
+Please read through the document before checking out the code tutorial
+[Code Tutorial: Tokenization](https://github.com/kayc0des/thenotebook/blob/main/48_NLP/tutorial/01_tokenization.ipynb)
+
 ## Introduction: Basic Terminologies
 
 1. `Corpus`: A collection of written or spoken texts that are used for training and analyzing language models. It’s like a large dataset of language, usually stored as text files, that helps machines learn how humans use language. For example, a collection of news articles could be a corpus.
