@@ -1,6 +1,6 @@
 # The Notebook
 
-This Repository contains practice code on various ML concepts
+This repository contains hands-on practice code covering a wide range of machine learning concepts. It serves as a resource for exploring and implementing various techniques in Machine Learning. I believe this repository is perfect for those looking to deepen their understanding through practical examples and code snippets.
 
 ## Repo Structure
 
